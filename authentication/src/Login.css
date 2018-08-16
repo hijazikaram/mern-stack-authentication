@@ -1,0 +1,10 @@
+.login {
+    background-color: white;
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 10%;
+    padding: 2%;
+}
+.loginBtn {
+    margin-top: 10px !important;
+}
